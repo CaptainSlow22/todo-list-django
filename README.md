@@ -1,3 +1,3 @@
 To Do List web application made with Django
 
-Link: http://captainslow22.pythonanywhere.com
+Link: https://captainslow22.pythonanywhere.com
